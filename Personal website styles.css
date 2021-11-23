@@ -79,6 +79,9 @@ p {
         padding: 0;
       }
 
+.header nav li {
+    display: inline
+}
 
 .header nav a {
     color:aliceblue;

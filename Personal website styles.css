@@ -73,6 +73,13 @@ p {
     padding: 7px;
 }
 
+.header nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+
+
 .header nav a {
     color:aliceblue;
     text-decoration:none;
